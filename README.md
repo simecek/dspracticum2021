@@ -12,6 +12,11 @@ The course is scheduled for **Thursdays, 10:00-11:30**. The first lecture will t
 
 No special knowledge is expected but you should have at least one year of coding experience, either R or Python. I like diverse crowds; students from different faculties and specializations are encouraged to enroll (if still in doubt, let me know to be paired with a more experienced student). The course will be taught in English if at least two students will be interested, otherwise in Czech.
 
+## Lessons
+
+  1. [Lesson 01](lesson01/) (16.9.): Introduction
+  1. *Lesson 02* (23.9.): Python
+  
 ## Slack
 
 We will be communicating through Slack channel https://app.slack.com/client/T02E6TBAJ0P/C02E6TBBHU7. Enroll to the course to be invited.
