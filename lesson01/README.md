@@ -7,7 +7,7 @@
 * TensorFlow demo
 * Tools & organization of the course
 
-## Asignment 01
+**Asignment 01**:
 
 * Create [GitHub](https://github.com/) account (if you do not have one).
 * Sign up to our [Slack](https://dspraktikum20-4wu6941.slack.com/).
