@@ -16,6 +16,8 @@ No special knowledge is expected but you should have at least one year of coding
 
   1. [Lesson 01](lesson01/) (16.9.): Introduction
   1. *Lesson 02* (23.9.): Python
+
+Last year materials: https://github.com/simecek/dspracticum2020
   
 ## Slack
 
