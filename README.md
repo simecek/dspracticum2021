@@ -18,7 +18,8 @@ No special knowledge is expected but you should have at least one year of coding
   1. [Lesson 02](lesson02/) (23.9.): Python
   1. [Lesson 03](lesson03/) (30.9.): Convolutional Neural Networks
   1. [Lesson 04](lesson04/) (7.10.): Transfer Learning
-  1. [Lesson 05](lesson05/) (12.10.): Backpropagation
+  1. [Lesson 05](lesson05/) (14.10.): Backpropagation
+  1. [Lesson 06](lesson06/) (21.10.): Time Series: Statistical Methods  
 
 Last year materials: https://github.com/simecek/dspracticum2020
   
