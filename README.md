@@ -20,6 +20,7 @@ No special knowledge is expected but you should have at least one year of coding
   1. [Lesson 04](lesson04/) (7.10.): Transfer Learning
   1. [Lesson 05](lesson05/) (14.10.): Backpropagation
   1. [Lesson 06](lesson06/) (21.10.): Time Series: Statistical Methods  
+  1. [Lesson 07](lesson07/) (4.11.): Time Series: DL Methods 
 
 Last year materials: https://github.com/simecek/dspracticum2020
   
