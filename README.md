@@ -21,6 +21,7 @@ No special knowledge is expected but you should have at least one year of coding
   1. [Lesson 05](lesson05/) (14.10.): Backpropagation
   1. [Lesson 06](lesson06/) (21.10.): Time Series: Statistical Methods  
   1. [Lesson 07](lesson07/) (4.11.): The Unix Shell
+  1. [Lesson 08](lesson08/) (11.11.): NLP
 
 Last year materials: https://github.com/simecek/dspracticum2020
   
