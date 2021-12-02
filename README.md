@@ -23,7 +23,7 @@ No special knowledge is expected but you should have at least one year of coding
   1. [Lesson 07](lesson07/) (4.11.): The Unix Shell
   1. [Lesson 08](lesson08/) (11.11.): NLP
   1. [Lesson 09](lesson09/) (18.11.): Transformers
-  1. [Lesson 10](lesson10/) (18.11.): Optimizers, NLP methods in Genomics
+  1. [Lesson 10](lesson10/) (25.11.): Optimizers, NLP methods in Genomics
 
 Last year materials: https://github.com/simecek/dspracticum2020
   
