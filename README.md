@@ -25,6 +25,7 @@ No special knowledge is expected but you should have at least one year of coding
   1. [Lesson 09](lesson09/) (18.11.): Transformers
   1. [Lesson 10](lesson10/) (25.11.): Optimizers, NLP methods in Genomics
   1. [Lesson 11](lesson11/) (2.12.): Recommenders, Tabular data
+  1. [Lesson 12](lesson12/) (9.12.): Explainable ML, Hyperparameters search, AutoML
 
 Last year materials: https://github.com/simecek/dspracticum2020
   
